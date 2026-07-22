@@ -83,4 +83,4 @@ retail-sales-customer-segmentation/
 ---
 
 **Author:** Mahendra Ankala
-*Final-year B.Tech AI & Data Science student | Aspiring Data Analyst*
+*B.Tech AI & Data Science student | Aspiring Data Analyst*
